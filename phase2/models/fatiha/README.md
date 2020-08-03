@@ -14,3 +14,14 @@ Fathiha is based on bert with 2 layers and hidden size 128.
 
 **Number of Steps**: 40000
 
+## Evaluation Scores:
+
+### Recall Score
+
+| R | test_seen | test_unseen |
+|---|-----------|-------------|
+| 1  |           |      0.2421       |
+| 2  |           |      0.2805       |
+| 3  |           |      0.3884       |
+| 4  |           |      0.4111       |
+| 5  |           |      0.4968       |
